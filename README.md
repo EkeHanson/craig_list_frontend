@@ -1,4 +1,4 @@
-# Craigslist Web App
+# Craiglist Web App
 
 This project aims to create a simple web app inspired by Craigslist. Users can list items they no longer need, and others can either collect them or place orders through the website.
 
